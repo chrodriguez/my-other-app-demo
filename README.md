@@ -21,3 +21,8 @@ Además necesitamos tener este shell: bash
 ## Funcionamiento
 
 El script validará que se reciba un argumento.
+
+## Seguridad
+
+Este script necesita de las credenciales .my-crentials que deben evitar ser
+versionadas
