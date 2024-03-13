@@ -17,3 +17,7 @@ sudo apt install git
 ```
 
 Además necesitamos tener este shell: bash
+
+## Funcionamiento
+
+El script validará que se reciba un argumento
