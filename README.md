@@ -20,4 +20,4 @@ Además necesitamos tener este shell: bash
 
 ## Funcionamiento
 
-El script validará que se reciba un argumento
+El script validará que se reciba un argumento.
